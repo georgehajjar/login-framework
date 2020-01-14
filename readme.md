@@ -15,11 +15,16 @@ npm install
 npm run dev
 ```
 
-* Go to <http://localhost:3000/>
+* Navigate to <http://localhost:3000/> on any browser
 
-* Inspect database
+### To Inspect database
 ```shell
 cd src/models
 mysql -u root -p
 source accountInfo.sql
 ```
+### Resources Used
+* <https://github.com/crsandeep/simple-react-full-stack>
+* <https://github.com/GM456742/PassportJS_Auth_Tutorial>
+* <https://www.youtube.com/watch?v=tNk2FSKlSYU&list=PL4cUxeGkcC9jdm7QX143aMLAqyM-jTZ2x&index=11>
+* <https://alligator.io/react/react-router-ssr/>
